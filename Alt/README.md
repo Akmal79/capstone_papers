@@ -24,3 +24,23 @@ Action Class : It is the way of classifying medications based on actions they pe
 Chemical Class : As name suggests, it is grouping based on chemical compound used.
 
 Habit Forming : It is classified as YES or NO. It is defined as the process of forming a habit, referring generally to psychological dependence on the continued use of a drug to maintain a sense of well-being, which can result in drug addiction. If there are chances of drug addiction, then it is set to YES otherwise NO.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+A-z medicine dataset:
+The file has data which contains all possible medicines that we were able to find out during our research on finding out medicine's details such as compositions of medicine, type of medicines, there market availability, pricing and many other things.
+
+The data consist of medicines from various pharmaceutical companies including:
+
+Sun Pharmaceutical Industries
+Torrent Pharma
+Glenmark Pharma Limited
+Emcure Pharmaceuticals
+Cipla Limited
+Zydus Lifesciences Limited (formerly Cadila Healthcare)
+Abbott India Ltd.
+Alkem Laboratories
+Lupin Limited
+Piramal Enterprises Limited and 7638 other pharmaceutical companies.
+*Prices of medicines are reported / recorded as of November,2022.
+
+*is_discontinued column defines Availability of medicines that is reported as of November,2022.
